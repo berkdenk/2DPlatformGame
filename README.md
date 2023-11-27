@@ -1,2 +1,6 @@
 # 2DPlatformGame
- 2D game with Unity
+This project is a 2DPlatformGame developed using C#. Installation
+
+Clone the project:
+
+git clone https://github.com/berkdenk/2DPlatformGame
